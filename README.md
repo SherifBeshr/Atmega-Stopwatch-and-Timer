@@ -8,4 +8,5 @@ as an inication of time out.
 
 Also there are 3 External Interrupts that can be used any time ( Reset / Pause / Resume ).
 
+video: https://www.youtube.com/watch?v=WbmbWKmwBQI
 ![Screenshot Proteus](https://user-images.githubusercontent.com/63435727/149385882-3b3b445c-aa84-4ef0-a1a7-4d4c16edb75d.png)
